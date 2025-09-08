@@ -1,0 +1,7 @@
+opencv-python-headless==4.10.0.84
+mediapipe
+numpy<2.0
+pandas
+scikit-learn
+joblib
+pygame
