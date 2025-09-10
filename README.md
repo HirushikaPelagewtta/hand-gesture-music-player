@@ -49,15 +49,14 @@ hand-gesture-music-player/
 
 ````
 
----
 
 ## ⚡ Quickstart
 1. Clone the repo:
    ```bash
    git clone https://github.com/HirushikaPelagewtta/hand-gesture-music-player.git
    cd hand-gesture-music-player
-````
-
+```
+```
 2. Create a Python 3.12 environment and install dependencies:
 
    ```bash
