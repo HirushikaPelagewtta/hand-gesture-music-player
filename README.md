@@ -107,10 +107,3 @@ This project is licensed under the MIT License.
 
 ```
 
-
-
----
-
-Would you like me to also give you a **step-by-step guide to create a demo GIF** (so your README looks more eye-catching on GitHub)?
-```
-# hand-gesture-music-player
