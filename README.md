@@ -1,6 +1,3 @@
-Of course 👍 Here’s the **full README.md** you can copy-paste directly into your repo:
-
-```markdown
 # 🎵 Hand Gesture Controlled Music Player
 
 Control your music player in **real-time** using simple **hand gestures** captured from your webcam.  
@@ -35,6 +32,7 @@ This project combines **computer vision** (gesture recognition) with **Python au
 ---
 
 ## 📂 Project Structure
+
 ```
 
 hand-gesture-music-player/
